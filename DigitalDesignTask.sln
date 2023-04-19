@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalDesignTaskLibrary", "DigitalDesignTaskLibrary\DigitalDesignTaskLibrary.csproj", "{63CD9E7B-2D35-477A-A8C9-548A1437E32E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalDesignTaskConsole", "DigitalDesignTaskConsole\DigitalDesignTaskConsole.csproj", "{D87F0433-4456-4701-95E5-F010C8FBA873}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63CD9E7B-2D35-477A-A8C9-548A1437E32E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CD9E7B-2D35-477A-A8C9-548A1437E32E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CD9E7B-2D35-477A-A8C9-548A1437E32E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CD9E7B-2D35-477A-A8C9-548A1437E32E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D87F0433-4456-4701-95E5-F010C8FBA873}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87F0433-4456-4701-95E5-F010C8FBA873}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87F0433-4456-4701-95E5-F010C8FBA873}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87F0433-4456-4701-95E5-F010C8FBA873}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {076869B6-57E8-4E3E-BB2B-2D3D8453B06B}
+	EndGlobalSection
+EndGlobal
